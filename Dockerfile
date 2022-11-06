@@ -1,5 +1,6 @@
-FROM debian:jessie-slim
-MAINTAINER Dietrich Rordorf <dr@ediqo.com>
+FROM debian:stable-slim
+MAINTAINER Steffen Fritz
+ENV DEBIAN_FRONTEND=noninteractive
 
 USER root
 
