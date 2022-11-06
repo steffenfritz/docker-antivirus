@@ -1,5 +1,5 @@
 FROM debian:stable-slim
-MAINTAINER Steffen Fritz
+MAINTAINER Dietrich Rordorf <dr@ediqo.com>
 ENV DEBIAN_FRONTEND=noninteractive
 
 USER root
